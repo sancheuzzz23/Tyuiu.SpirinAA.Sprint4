@@ -44,7 +44,7 @@ namespace Tyuiu.SpirinAA.Sprint4.Task0.V11
 
             Console.Write($"Произведение нечетных элементов массива = {ds.GetMultOddArrEl(array)}");
 
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
